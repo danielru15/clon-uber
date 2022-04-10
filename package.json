@@ -9,12 +9,22 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@react-icons/all-files": "^4.1.0",
+    "@sanity/cli": "^2.29.3",
+    "axios": "^0.26.1",
+    "mapbox-gl": "^2.7.1",
     "next": "12.1.4",
+    "nookies": "^2.5.2",
     "react": "18.0.0",
-    "react-dom": "18.0.0"
+    "react-dom": "18.0.0",
+    "react-icons": "^4.3.1",
+    "sweetalert2": "^11.4.8"
   },
   "devDependencies": {
+    "autoprefixer": "^10.4.4",
     "eslint": "8.12.0",
-    "eslint-config-next": "12.1.4"
+    "eslint-config-next": "12.1.4",
+    "postcss": "^8.4.12",
+    "tailwindcss": "^3.0.23"
   }
 }
